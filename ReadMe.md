@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Cyber-Security & Software Developer, Intern at ePropelled Systems Private Ltd<br>👯 I’m looking to collaborate on Company Projects<br>🤝 I’m looking for help with Tech Knowledge<br>🌱 I’m currently learning python, Javascript, typescript, and other languages<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently working as Cyber-Security & Software Developer Intern at <b>ePropelled Systems Private Ltd</b> <br>👯 I’m looking to collaborate on Company, startup projects, Open-source software.<br>🤝 I’m looking for help with Secure application development, System design & best coding practices<br>🌱 I’m currently learning python, Javascript, typescript, Web security & backend development, Modern frameworks and developer tools<br>💬 Ask me about Python scripting, Web development basics, Cybersecurity fundamentals, Intern life & real-world project experience<br>⚡ Fun fact I write code thinking about future developers (including me 😄).
 
 
 ## 🌐 Socials:
